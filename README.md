@@ -1,2 +1,3 @@
-# unicode-url-key
-Magento Unicode Url Key
+# Magento unicode url key
+
+#### Magento unicode URL support

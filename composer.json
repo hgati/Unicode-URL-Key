@@ -1,0 +1,11 @@
+{
+  "name": "hgati/unicode-url-key",
+  "type": "magento-module",
+
+  "extra": {
+    "map": [
+      ["app/code/local/Cobay/UnicodeUrlKey", "app/code/local/Cobay/UnicodeUrlKey"],
+      ["app/etc/modules/Cobay_UnicodeUrlKey.xml", "app/etc/modules/Cobay_UnicodeUrlKey.xml"]
+    ]
+  }
+}
